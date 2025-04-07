@@ -1,4 +1,4 @@
-* 00000004
+* 00000003
 *! version 1.0.0
 * Do not erase or edit this file
 * It is used by Stata to track the ado and help
@@ -152,28 +152,4 @@ d Support: email N.J.Cox@@durham.ac.uk
 d 
 f m/mypkg.ado
 f m/mypkg.hlp
-e
-S http://www.stata-journal.com/software/sj14-2
-N st0085_2.pkg
-D  7 Apr 2025
-U 4
-d SJ14-2 st0085_2. Update: Making regression...
-d Update: Making regression tables from stored
-d   estimates
-d by Ben Jann, University of Bern
-d Support:  jann@@soz.unibe.ch
-d After installation, type help ^estout^,
-d   ^esttab^, ^eststo^, ^estadd^, and ^estpost^
-f _/_eststo.ado
-f _/_eststo.hlp
-f e/esttab.ado
-f e/esttab.hlp
-f e/estadd.ado
-f e/estadd.hlp
-f e/eststo.ado
-f e/eststo.hlp
-f e/estout.ado
-f e/estout.hlp
-f e/estpost.ado
-f e/estpost.hlp
 e
