@@ -31,3 +31,38 @@ doi          = {10.5281/zenodo.15124721},
 url          = {https://doi.org/10.5281/zenodo.15124721},
 }
 ```
+
+## Stata Package Versions
+
+```
++--------------------------------+
+| number    package         date |
+|--------------------------------|
+|    [6]     ftools   1 Apr 2025 |
+|    [7]      mypkg   1 Apr 2025 |
+|    [1]    reghdfe   1 Apr 2025 |
+|    [2]    regsave   1 Apr 2025 |
+|    [5]    rscript   1 Apr 2025 |
+|--------------------------------|
+|    [3]   st0085_2   1 Apr 2025 |
+|    [4]    texsave   1 Apr 2025 |
++--------------------------------+
+
++-------------------------------------
+Date and time:  1 Apr 2025 16:43:09
+Stata version: 18.5
+Updated as of: 22 May 2024
+Variant:       MP
+Processors:    2
+OS:            Unix 
+Machine type:  Mac (Apple Silicon)
+Shell:         /opt/homebrew/bin/fish
++-------------------------------------
+```
+
+## Input and Output
+
+| Paper Object |  File name |  function |
+| ------------ |  --------- |  -------- |
+| Table 1 |  `output/tables/statareg1.tex` |  `code/stata/do/2_regression.do` |
+
