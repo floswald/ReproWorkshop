@@ -1,9 +1,17 @@
 # Fdb version 4
-["pdflatex"] 1744040221.57487 "/Users/floswald/git/ReproWorkshop/paper/main.tex" "main.pdf" "main" 1744040222.19849 0
-  "../output/plots/figure1.pdf" 1744040175.30929 5887 84e690cf3dc73e3b20f7e7dae719bb23 ""
+["bibtex main"] 1744040293.89197 "main.aux" "main.bbl" "main" 1744040294.85798 0
+  "./grateful-refs.bib" 1744040280.42233 4641 c32cfef1e42d1c6978f8685fed02c657 ""
+  "/usr/local/texlive/2024/texmf-dist/bibtex/bst/natbib/plainnat.bst" 1233624470 26816 ffe5423d2019860bad9f54bc402fac15 ""
+  "main.aux" 1744040294.5711 2821 f8b2c5fd7300019c71004605db35778f "pdflatex"
+  (generated)
+  "main.bbl"
+  "main.blg"
+  (rewritten before read)
+["pdflatex"] 1744040294.01161 "/Users/floswald/git/ReproWorkshop/paper/main.tex" "main.pdf" "main" 1744040294.85814 0
+  "../output/plots/figure1.pdf" 1744040278.27789 5887 da80b10e367caecb4877f75b979e8459 ""
   "../output/tables/statareg.tex" 1744039952.67665 2728 3581957fd74f920932ba8f2c657bd834 ""
-  "../output/tables/table2.tex" 1744040174.63668 2134 e08e2f83421c2ee12adde0bc33aab2b8 ""
-  "/Users/floswald/git/ReproWorkshop/paper/main.tex" 1744040212.40923 4279 6b4f6d0653a0583e42524d3705a425a3 ""
+  "../output/tables/table2.tex" 1744040277.61403 2134 e08e2f83421c2ee12adde0bc33aab2b8 ""
+  "/Users/floswald/git/ReproWorkshop/paper/main.tex" 1744040281.44506 4360 896c7f576e682510fc86047a1b3c8118 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm0700.tfm" 1136768653 1536 73da8e8f1d2a4c957d51ca133585586b ""
@@ -103,9 +111,10 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1718117145.93408 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1718117013 8221420 8ae03e60ac8cab6310d6375ffd39dbfe ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "main.aux" 1744040222.12443 1669 cc18d10d3f5e915cca9ee1060571ae2b "pdflatex"
-  "main.out" 1744040222.12692 317 f4344d544b385d3b7c270faf235f5426 "pdflatex"
-  "main.tex" 1744040212.40923 4279 6b4f6d0653a0583e42524d3705a425a3 ""
+  "main.aux" 1744040294.5711 2821 f8b2c5fd7300019c71004605db35778f "pdflatex"
+  "main.bbl" 1744040294.0078 5054 d7d6ac300b4eb708a193c804cadb7af0 "bibtex main"
+  "main.out" 1744040294.57356 317 f4344d544b385d3b7c270faf235f5426 "pdflatex"
+  "main.tex" 1744040281.44506 4360 896c7f576e682510fc86047a1b3c8118 ""
   (generated)
   "main.aux"
   "main.log"

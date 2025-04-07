@@ -1,0 +1,110 @@
+\begin{thebibliography}{17}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Barrett et~al.(2025)Barrett, Dowle, Srinivasan, Gorecki, Chirico, Hocking, Schwendinger, and Krylov]{datatable}
+Tyson Barrett, Matt Dowle, Arun Srinivasan, Jan Gorecki, Michael Chirico, Toby Hocking, Benjamin Schwendinger, and Ivan Krylov.
+\newblock \emph{{data.table}: Extension of `{data.frame}'}, 2025.
+\newblock URL \url{https://CRAN.R-project.org/package=data.table}.
+\newblock R package version 1.17.0.
+
+\bibitem[Berg\'e(2018)]{fixest}
+Laurent Berg\'e.
+\newblock Efficient estimation of maximum likelihood models with multiple fixed-effects: the {R} package {FENmlm}.
+\newblock \emph{CREA Discussion Papers}, \penalty0 (13), 2018.
+
+\bibitem[Berge(2023)]{dreamerr}
+Laurent Berge.
+\newblock \emph{{dreamerr}: Error Handling Made Easy}, 2023.
+\newblock URL \url{https://CRAN.R-project.org/package=dreamerr}.
+\newblock R package version 1.4.0.
+
+\bibitem[Berge(2024)]{stringmagic}
+Laurent~R Berge.
+\newblock \emph{{stringmagic}: Character String Operations and Interpolation, Magic Edition}, 2024.
+\newblock URL \url{https://CRAN.R-project.org/package=stringmagic}.
+\newblock R package version 1.1.2.
+
+\bibitem[Daróczi and Wickham(2024)]{logger}
+Gergely Daróczi and Hadley Wickham.
+\newblock \emph{{logger}: A Lightweight, Modern and Flexible Logging Utility}, 2024.
+\newblock URL \url{https://daroczig.github.io/logger/}.
+\newblock R package version 0.4.0.
+
+\bibitem[Eddelbuettel(2013)]{Rcpp2013}
+Dirk Eddelbuettel.
+\newblock \emph{Seamless {R} and {C++} Integration with {Rcpp}}.
+\newblock Springer, New York, 2013.
+\newblock \doi{10.1007/978-1-4614-6868-4}.
+\newblock ISBN 978-1-4614-6867-7.
+
+\bibitem[Eddelbuettel and Balamuta(2018)]{Rcpp2018}
+Dirk Eddelbuettel and James~Joseph Balamuta.
+\newblock {Extending {R} with {C++}: A Brief Introduction to {Rcpp}}.
+\newblock \emph{The American Statistician}, 72\penalty0 (1):\penalty0 28--36, 2018.
+\newblock \doi{10.1080/00031305.2017.1375990}.
+
+\bibitem[Eddelbuettel and Fran\c{c}ois(2011)]{Rcpp2011}
+Dirk Eddelbuettel and Romain Fran\c{c}ois.
+\newblock {Rcpp}: Seamless {R} and {C++} integration.
+\newblock \emph{Journal of Statistical Software}, 40\penalty0 (8):\penalty0 1--18, 2011.
+\newblock \doi{10.18637/jss.v040.i08}.
+
+\bibitem[Eddelbuettel et~al.(2025)Eddelbuettel, Francois, Allaire, Ushey, Kou, Russell, Ucar, Bates, and Chambers]{Rcpp2025}
+Dirk Eddelbuettel, Romain Francois, JJ~Allaire, Kevin Ushey, Qiang Kou, Nathan Russell, Iñaki Ucar, Doug Bates, and John Chambers.
+\newblock \emph{{Rcpp}: Seamless R and C++ Integration}, 2025.
+\newblock URL \url{https://CRAN.R-project.org/package=Rcpp}.
+\newblock R package version 1.0.14.
+
+\bibitem[Gilbert and Varadhan(2019)]{numDeriv}
+Paul Gilbert and Ravi Varadhan.
+\newblock \emph{{numDeriv}: Accurate Numerical Derivatives}, 2019.
+\newblock URL \url{https://CRAN.R-project.org/package=numDeriv}.
+\newblock R package version 2016.8-1.1.
+
+\bibitem[{R Core Team}(2024)]{base}
+{R Core Team}.
+\newblock \emph{{R}: A Language and Environment for Statistical Computing}.
+\newblock R Foundation for Statistical Computing, Vienna, Austria, 2024.
+\newblock URL \url{https://www.R-project.org/}.
+
+\bibitem[Ushey and Wickham(2024)]{renv}
+Kevin Ushey and Hadley Wickham.
+\newblock \emph{{renv}: Project Environments}, 2024.
+\newblock URL \url{https://CRAN.R-project.org/package=renv}.
+\newblock R package version 1.0.11.
+
+\bibitem[Zeileis(2004)]{sandwich2004}
+Achim Zeileis.
+\newblock Econometric computing with {HC} and {HAC} covariance matrix estimators.
+\newblock \emph{Journal of Statistical Software}, 11\penalty0 (10):\penalty0 1--17, 2004.
+\newblock \doi{10.18637/jss.v011.i10}.
+
+\bibitem[Zeileis(2006)]{sandwich2006}
+Achim Zeileis.
+\newblock Object-oriented computation of sandwich estimators.
+\newblock \emph{Journal of Statistical Software}, 16\penalty0 (9):\penalty0 1--16, 2006.
+\newblock \doi{10.18637/jss.v016.i09}.
+
+\bibitem[Zeileis and Croissant(2010)]{Formula}
+Achim Zeileis and Yves Croissant.
+\newblock Extended model formulas in {R}: Multiple parts and multiple responses.
+\newblock \emph{Journal of Statistical Software}, 34\penalty0 (1):\penalty0 1--13, 2010.
+\newblock \doi{10.18637/jss.v034.i01}.
+
+\bibitem[Zeileis and Grothendieck(2005)]{zoo}
+Achim Zeileis and Gabor Grothendieck.
+\newblock {zoo}: S3 infrastructure for regular and irregular time series.
+\newblock \emph{Journal of Statistical Software}, 14\penalty0 (6):\penalty0 1--27, 2005.
+\newblock \doi{10.18637/jss.v014.i06}.
+
+\bibitem[Zeileis et~al.(2020)Zeileis, K\"oll, and Graham]{sandwich2020}
+Achim Zeileis, Susanne K\"oll, and Nathaniel Graham.
+\newblock Various versatile variances: An object-oriented implementation of clustered covariances in {R}.
+\newblock \emph{Journal of Statistical Software}, 95\penalty0 (1):\penalty0 1--36, 2020.
+\newblock \doi{10.18637/jss.v095.i01}.
+
+\end{thebibliography}

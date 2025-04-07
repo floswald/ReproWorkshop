@@ -177,6 +177,9 @@ INPUT ../output/plots/figure1.pdf
 INPUT ../output/plots/figure1.pdf
 INPUT ../output/plots/figure1.pdf
 INPUT ../output/plots/figure1.pdf
+INPUT ./main.bbl
+INPUT ./main.bbl
+INPUT main.bbl
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
