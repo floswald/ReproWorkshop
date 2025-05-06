@@ -1,10 +1,20 @@
 # my R script
 
+root = "/Users/floswald/git/ReproWorkshop"
+
+library(renv)
+renv::init(project = file.path(root,"code","R"))
+
+# Need to install packages only on first run
+# install.packages(c("fixest","data.table","logger","grateful"))
+# renv::snapshot()
+
+# those libraries come from the *local* project library
 library(fixest)
 library(data.table)
 library(logger)
 
-root = "/Users/floswald/git/ReproWorkshop"
+log_info("R: now running in an `renv`!")
 
 log_info("loading data from csv")
 
@@ -29,5 +39,9 @@ log_info("R timings:")
 log_info("reading csv: {csvtime['elapsed']} seconds")
 log_info("running FE : {fetime['elapsed']} seconds")
 
+# Write package citations to paper and readme
+grateful::get_pkgs_info(pkgs = "Session",output = "citekeys",  out.dir = file.path(root,"paper"), dependencies = TRUE)
+grateful::cite_packages(output = "file", out.format = "md",pkgs = "Session", out.dir = file.path(root,"paper"), dependencies = TRUE)
+
 log_info("R: done")
-    
+
