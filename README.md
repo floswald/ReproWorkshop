@@ -74,3 +74,6 @@ Shell:         /opt/homebrew/bin/fish
 | ------------ |  --------- |  -------- |
 | Table 1 |  `output/tables/statareg1.tex` |  `code/stata/do/2_regression.do` |
 
+## Stata Runtime
+
+0.02 minutes
