@@ -13,3 +13,21 @@ We are building a reproducible research project. We will
 
 We want to run a two fixed effects regression in all two programming languages. We will build a table of results from each, and record the time it took to run the analysis. Along the way, we will take care to carefully record all info to reproduce our computational environment.
 
+
+## Data Citation
+
+Oswald, F. (2025). Data for Reproducibility Exercise [Data set]. Zenodo. https://zenodo.org/records/15124721
+
+Here is a bibtex entry:
+
+```
+@dataset{oswald_2025_15124721,
+author       = {Oswald, Florian},
+title        = {Data for Reproducibility Exercise},
+month        = apr,
+year         = 2025,
+publisher    = {Zenodo},
+doi          = {10.5281/zenodo.15124721},
+url          = {https://doi.org/10.5281/zenodo.15124721},
+}
+```
